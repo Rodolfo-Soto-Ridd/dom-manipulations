@@ -1,0 +1,1 @@
+Ejercicio: Extiende la aplicación de lista de tareas agregando: sistema de categorías/etiquetas, búsqueda en tiempo real, funcionalidad de arrastrar y soltar para reordenar tareas, modo oscuro/claro, y persistencia en diferentes formatos (JSON, CSV). Usa event delegation para todos los eventos y optimiza el rendimiento evitando manipulaciones innecesarias del DOM.
